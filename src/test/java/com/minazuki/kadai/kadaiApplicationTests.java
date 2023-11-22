@@ -9,5 +9,4 @@ class kadaiApplicationTests {
   @Test
   void contextLoads() {
   }
-
 }
